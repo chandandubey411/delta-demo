@@ -1,2 +1,2 @@
 # delta-demo
-This is a simple git &amp; github repository
+This is a simple git &amp; github repository.
